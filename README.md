@@ -1,6 +1,6 @@
 # Startup Event Landing Page
 
-This is a basic **Landing Page** project developed to promote the **biggest startup event of the year**. The page was created using **HTML**, **CSS**, and the **Bootstrap 5.3** framework to facilitate responsive styling.
+This is a basic **Landing Page** project developed for tutorial. The page was created using **HTML**, **CSS**, and the **Bootstrap 5.3** framework to facilitate responsive styling.
 
 ## 🌍 Technologies Used
 
